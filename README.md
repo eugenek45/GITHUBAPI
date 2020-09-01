@@ -1,6 +1,6 @@
 # Git search
 Users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories.
-![Test Image 2](“”)
+![Test Image 2](./src\assets\github.PNG”)
 
 
 
