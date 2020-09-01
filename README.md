@@ -1,5 +1,6 @@
 # Git search
-Below
+Users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories.
+![Test Image 2](“”)
 
 
 
@@ -11,23 +12,23 @@ Moringa Students ; Assistant designers
 
 The week's independent project will be evaluated for the following objectives:
 
-Project must contain a well-designed landing page that displays your GitHub information such as your username, your profile photos and a list of your repositories.
-Place your access key inside the environment.ts file and place it inside the gitignore file.
-Create a HTTP service that uses a promise to make the requests to the GitHub API.
-The HTTP request should be able to search for both GitHub users and GitHub repositories. Your project must have two classes for the user and repository.
-Project must have a proper routing structure that links a GitHub username to the users GitHub repositories.
-Project must have a separate routing module.
-Project must contain a custom directive and a custom pipe. Your Project must be well designed and visually appealing and of portfolio quality.
-Project must have a well-documented README file.
-Project must be deployed and the deployed link should be submitted.
-Setup/Installation Requirements
-Fork the repo
-Create a new branch (git checkout -b improve-feature)
-Make the appropriate changes in the files
-Add changes to reflect the changes made
-Commit your changes (git commit -am 'Improve feature')
-Push to the branch (git push origin improve-feature)
-Create a Pull Request
+* Project must contain a well-designed landing page that displays your GitHub information such as your username, your profile photos and a list of your repositories.
+* Place your access key inside the environment.ts file and place it inside the gitignore file.
+* Create a HTTP service that uses a promise to make the requests to the GitHub API.
+* The HTTP request should be able to search for both GitHub users and GitHub repositories. Your project must have two classes for the user and repository.
+* Project must have a proper routing structure that links a GitHub username to the users GitHub repositories.
+* Project must have a separate routing module.
+* Project must contain a custom directive and a custom pipe. Your Project must be well designed and visually appealing and of portfolio quality.
+* Project must have a well-documented README file.
+* Project must be deployed and the deployed link should be submitted.
+## Setup/Installation Requirements
+* Fork the repo
+* Create a new branch (git checkout -b improve-feature)
+* Make the appropriate changes in the files
+* Add changes to reflect the changes made
+* Commit your changes (git commit -am 'Improve feature')
+* Push to the branch (git push origin improve-feature)
+* Create a Pull Request
 ## Known Bugs
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here by including your search query and the expected result.
 
