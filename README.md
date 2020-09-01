@@ -5,9 +5,9 @@ Users may enter a GitHub username into a form, submit it, and see names and desc
 
 
 ## By:
-Eugene Kiprotich ; lead developer
-Moringa TM's ; Mentors
-Moringa Students ; Assistant designers
+* Eugene Kiprotich ; lead developer
+* Moringa TM's ; Mentors
+* Moringa Students ; Assistant designers
 ## Description 
 
 The week's independent project will be evaluated for the following objectives:
